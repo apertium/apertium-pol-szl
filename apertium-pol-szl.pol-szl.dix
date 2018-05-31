@@ -523,7 +523,8 @@
 <e>       <p><l>domowo<s n="adv"/></l>                 <r>dōmowo<s n="adv"/></r></p></e>
 <e>       <p><l>domyślnie<s n="adv"/></l>              <r>wychodnie<s n="adv"/></r></p></e>
 <e>       <p><l>dopełnieniowo<s n="adv"/></l>          <r>dopełniyniowo<s n="adv"/></r></p></e>
-<e>       <p><l>dopiero<s n="adv"/></l>                <r>dziepiyro<s n="adv"/></r></p></e>
+<e r="RL"><p><l>dopiero<s n="adv"/></l>                <r>dziepiyro<s n="adv"/></r></p></e>
+<e>       <p><l>dopiero<s n="adv"/></l>                <r>dopiyro<s n="adv"/></r></p></e>
 <e>       <p><l>doprawdy<s n="adv"/></l>               <r>na<b/>isto<s n="adv"/></r></p></e>
 <e>       <p><l>dorodnie<s n="adv"/></l>               <r>dorodnie<s n="adv"/></r></p></e>
 <e>       <p><l>dorośle<s n="adv"/></l>                <r>majoryntnie<s n="adv"/></r></p></e>
@@ -3888,7 +3889,7 @@
 <e>       <p><l>duch<s n="n"/><s n="mp"/></l>          <r>duch<s n="n"/><s n="ma"/></r></p></e>
 <e>       <p><l>dukat<s n="n"/><s n="ma"/></l>         <r>złociŏk<s n="n"/><s n="mi"/></r></p></e>
 <e>       <p><l>duma<s n="n"/><s n="f"/></l>           <r>hyra<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>dupa<s n="n"/><s n="f"/></l>           <r>rzić<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>dupa<s n="n"/><s n="f"/></l>           <r>dupa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>duplika<s n="n"/><s n="f"/></l>        <r>duplika<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>duplikacja<s n="n"/><s n="f"/></l>     <r>duplikacyjŏ<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>duplikat<s n="n"/><s n="mi"/></l>      <r>tuplikat<s n="n"/><s n="mi"/></r></p></e>
@@ -13166,7 +13167,7 @@
 <e>       <p><l>wideografia<s n="n"/><s n="f"/></l>    <r>wideografijŏ<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>wideokonferencja<s n="n"/><s n="f"/></l><r>wideokōnferyncyjŏ<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>widoczność<s n="n"/><s n="f"/></l>     <r>widzialność<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>widok<s n="n"/><s n="mi"/></l>         <r>widzik<s n="n"/><s n="mi"/></r></p></e>
+<e>       <p><l>widok<s n="n"/><s n="mi"/></l>         <r>widok<s n="n"/><s n="mi"/></r></p></e>
 <e>       <p><l>widowisko<s n="n"/><s n="nt"/></l>     <r>przedstŏwiynie<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>widownia<s n="n"/><s n="f"/></l>       <r>widownia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>widymacja<s n="n"/><s n="f"/></l>      <r>widymacyjŏ<s n="n"/><s n="f"/></r></p></e>
@@ -13455,12 +13456,12 @@
 <e>       <p><l>węzeł<s n="n"/><s n="mi"/></l>         <r>wyndzeł<s n="n"/><s n="mi"/></r></p></e>
 <e>       <p><l>węzeł<s n="n"/><s n="mi"/></l>         <r>knōutel<s n="n"/><s n="mi"/></r></p></e>
 <e>       <p><l>władca<s n="n"/><s n="mp"/></l>        <r>gospodzin<s n="n"/><s n="mp"/></r></p></e>
-<e>       <p><l>władza<s n="n"/><s n="f"/></l>         <r>włŏdza<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>władza<s n="n"/><s n="f"/></l>         <r>władza<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>włamanie<s n="n"/><s n="nt"/></l>      <r>ajnbruch<s n="n"/><s n="mi"/></r></p></e>
-<e>       <p><l>własność<s n="n"/><s n="f"/></l>       <r>iścizna<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>własność<s n="n"/><s n="f"/></l>       <r>włŏsność<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>właściciel<s n="n"/><s n="mp"/></l>    <r>posiedziciel<s n="n"/><s n="mp"/></r></p></e>
 <e>       <p><l>właścicielka<s n="n"/><s n="f"/></l>   <r>posiedzicielka<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>właściwość<s n="n"/><s n="f"/></l>     <r>włŏsność<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>właściwość<s n="n"/><s n="f"/></l>     <r>włŏsność<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>włos<s n="n"/><s n="mi"/></l>          <r>wos<s n="n"/><s n="mi"/></r></p></e>
 <e>       <p><l>włóczęga<s n="n"/><s n="mp"/></l>      <r>kōndys<s n="n"/><s n="mp"/></r></p></e>
 <e>       <p><l>włóczęga<s n="n"/><s n="f"/></l>       <r>wander<s n="n"/><s n="mp"/></r></p></e>
@@ -14665,7 +14666,7 @@
 <e>       <p><l>kroić<s n="vblex"/></l>                <r>krŏć<s n="vblex"/></r></p></e>
 <e>       <p><l>krytykować<s n="vblex"/></l>           <r>sztrofować<s n="vblex"/></r></p></e>
 <e>       <p><l>kryć<s n="vblex"/></l>                 <r>kryć<s n="vblex"/></r></p></e>
-<e>       <p><l>krzyczeć<s n="vblex"/></l>             <r>krzikać<s n="vblex"/></r></p></e>
+<e>       <p><l>krzyczeć<s n="vblex"/></l>             <r>krziczeć<s n="vblex"/></r></p></e>
 <e>       <p><l>krzyknąć<s n="vblex"/></l>             <r>krziknōńć<s n="vblex"/></r></p></e>
 <e>       <p><l>krzyżować<s n="vblex"/></l>            <r>krojcować<s n="vblex"/></r></p></e>
 <e>       <p><l>krążyć<s n="vblex"/></l>               <r>rōntować<s n="vblex"/></r></p></e>
@@ -14745,7 +14746,7 @@
 <e>       <p><l>nadawać<s n="vblex"/></l>              <r>nadŏwać<s n="vblex"/></r></p></e>
 <e>       <p><l>nadać<s n="vblex"/></l>                <r>nadać<s n="vblex"/></r></p></e>
 <e>       <p><l>nadchodzić<s n="vblex"/></l>           <r>nadłazić<s n="vblex"/></r></p></e>
-<e>       <p><l>nadejść<s n="vblex"/></l>              <r>nadlyźć<s n="vblex"/></r></p></e>
+<e>       <p><l>nadejść<s n="vblex"/></l>              <r>nadejść<s n="vblex"/></r></p></e>
 <e>       <p><l>nadesłać<s n="vblex"/></l>             <r>posłać<s n="vblex"/></r></p></e>
 <e>       <p><l>nadpisać<s n="vblex"/></l>             <r>pōmiynić<s n="vblex"/></r></p></e>
 <e>       <p><l>nadpisywać<s n="vblex"/></l>           <r>pōmiyniać<s n="vblex"/></r></p></e>
@@ -15151,7 +15152,7 @@
 <e>       <p><l>pomniejszyć<s n="vblex"/></l>          <r>pōmyńszyć<s n="vblex"/></r></p></e>
 <e>       <p><l>pomnożyć<s n="vblex"/></l>             <r>nasporzić<s n="vblex"/></r></p></e>
 <e>       <p><l>pomyśleć<s n="vblex"/></l>             <r>pōmyśleć<s n="vblex"/></r></p></e>
-<e>       <p><l>pomóc<s n="vblex"/></l>                <r>podeprzić<s n="vblex"/></r></p></e>
+<e>       <p><l>pomóc<s n="vblex"/></l>                <r>pōmōc<s n="vblex"/></r></p></e>
 <e>       <p><l>ponieść<s n="vblex"/></l>              <r>pōniyść<s n="vblex"/></r></p></e>
 <e>       <p><l>ponosić<s n="vblex"/></l>              <r>pōnosić<s n="vblex"/></r></p></e>
 <e>       <p><l>popatrzeć<s n="vblex"/></l>            <r>wejrzeć<s n="vblex"/></r></p></e>
@@ -15322,7 +15323,7 @@
 <e>       <p><l>przerywać<s n="vblex"/></l>            <r>przerywać<s n="vblex"/></r></p></e>
 <e>       <p><l>przesadzać<s n="vblex"/></l>           <r>przesŏdzać<s n="vblex"/></r></p></e>
 <e>       <p><l>przeskalować<s n="vblex"/></l>         <r>przeskalować<s n="vblex"/></r></p></e>
-<e>       <p><l>przeskoczyć<s n="vblex"/></l>          <r>przeskoknōńć<s n="vblex"/></r></p></e>
+<e>       <p><l>przeskoczyć<s n="vblex"/></l>          <r>przeskoczyć<s n="vblex"/></r></p></e>
 <e>       <p><l>przespać<s n="vblex"/></l>             <r>przespać<s n="vblex"/></r></p></e>
 <e>       <p><l>przestawać<s n="vblex"/></l>           <r>ustŏwać<s n="vblex"/></r></p></e>
 <e>       <p><l>przestawić<s n="vblex"/></l>           <r>przesztelować<s n="vblex"/></r></p></e>
@@ -15561,7 +15562,7 @@
 <e>       <p><l>skazywać<s n="vblex"/></l>             <r>skazować<s n="vblex"/></r></p></e>
 <e>       <p><l>skierować<s n="vblex"/></l>            <r>skerować<s n="vblex"/></r></p></e>
 <e>       <p><l>skinąć<s n="vblex"/></l>               <r>kiwnōńć<s n="vblex"/></r></p></e>
-<e>       <p><l>skoczyć<s n="vblex"/></l>              <r>skoknōńć<s n="vblex"/></r></p></e>
+<e>       <p><l>skoczyć<s n="vblex"/></l>              <r>skoczyć<s n="vblex"/></r></p></e>
 <e>       <p><l>skomentować<s n="vblex"/></l>          <r>skōmyntować<s n="vblex"/></r></p></e>
 <e>       <p><l>skompresować<s n="vblex"/></l>         <r>skompresować<s n="vblex"/></r></p></e>
 <e>       <p><l>skoncentrować<s n="vblex"/></l>        <r>skōncyntrować<s n="vblex"/></r></p></e>
@@ -15807,7 +15808,7 @@
 <e>       <p><l>uprzywilejować<s n="vblex"/></l>       <r>uprziwilejować<s n="vblex"/></r></p></e>
 <e>       <p><l>upuścić<s n="vblex"/></l>              <r>spuścić<s n="vblex"/></r></p></e>
 <e>       <p><l>upłynąć<s n="vblex"/></l>              <r>upłynōńć<s n="vblex"/></r></p></e>
-<e>       <p><l>uratować<s n="vblex"/></l>             <r>wyretować<s n="vblex"/></r></p></e>
+<e>       <p><l>uratować<s n="vblex"/></l>             <r>uretować<s n="vblex"/></r></p></e>
 <e>       <p><l>uregulować<s n="vblex"/></l>           <r>nasztalować<s n="vblex"/></r></p></e>
 <e>       <p><l>urodzić<s n="vblex"/></l>              <r>narodzić<s n="vblex"/></r></p></e>
 <e>       <p><l>urosnąć<s n="vblex"/></l>              <r>urōść<s n="vblex"/></r></p></e>
@@ -15895,7 +15896,7 @@
 <e>       <p><l>weryfikować<s n="vblex"/></l>          <r>weryfikować<s n="vblex"/></r></p></e>
 <e>       <p><l>wesprzeć<s n="vblex"/></l>             <r>spōmōc<s n="vblex"/></r></p></e>
 <e>       <p><l>westchnąć<s n="vblex"/></l>            <r>dychnōńć<b/>se<s n="vblex"/></r></p></e>
-<e>       <p><l>wezwać<s n="vblex"/></l>               <r>pozwać<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>wezwać<s n="vblex"/></l>               <r>wezwać<s n="vblex"/></r></p></e>
 <e>       <p><l>wgrywać<s n="vblex"/></l>              <r>wgrŏwać<s n="vblex"/></r></p></e>
 <e>       <p><l>wiać<s n="vblex"/></l>                 <r>fukać<s n="vblex"/></r></p></e>
 <!-- <e>       <p><l>widnieć<s n="vblex"/></l>              <r>widnić<g><b/>sie</g><s n="vblex"/></r></p></e> -->
@@ -16094,7 +16095,7 @@
 <e>       <p><l>wyrejestrowywać<s n="vblex"/></l>      <r>ôdregistrowować<s n="vblex"/></r></p></e>
 <e>       <p><l>wyrosnąć<s n="vblex"/></l>             <r>wyrōść<s n="vblex"/></r></p></e>
 <e>       <p><l>wyrwać<s n="vblex"/></l>               <r>wytargać<s n="vblex"/></r></p></e>
-<e>       <p><l>wyrywać<s n="vblex"/></l>              <r>szczybrać<s n="vblex"/></r></p></e>
+<e>       <p><l>wyrywać<s n="vblex"/></l>              <r>wyrywać<s n="vblex"/></r></p></e>
 <e>       <p><l>wyrzucać<s n="vblex"/></l>             <r>wyciepować<s n="vblex"/></r></p></e>
 <e>       <p><l>wyrzucić<s n="vblex"/></l>             <r>wyciepnōńć<s n="vblex"/></r></p></e>
 <e>       <p><l>wyrównać<s n="vblex"/></l>             <r>wyrōwnać<s n="vblex"/></r></p></e>
@@ -16104,6 +16105,7 @@
 <e>       <p><l>wysiąść<s n="vblex"/></l>              <r>wysiednōńć<s n="vblex"/></r></p></e>
 <e>       <p><l>wyskakiwać<s n="vblex"/></l>           <r>wyskakować<s n="vblex"/></r></p></e>
 <e>       <p><l>wyskoczyć<s n="vblex"/></l>            <r>wyskoczyć<s n="vblex"/></r></p></e>
+<e>       <p><l>zeskoczyć<s n="vblex"/></l>            <r>zeskoczyć<s n="vblex"/></r></p></e>
 <e>       <p><l>wystarczać<s n="vblex"/></l>           <r>nastykać<s n="vblex"/></r></p></e>
 <e>       <p><l>wystarczyć<s n="vblex"/></l>           <r>dostyknōńć<s n="vblex"/></r></p></e>
 <e>       <p><l>wystawać<s n="vblex"/></l>             <r>wystyrkować<s n="vblex"/></r></p></e>
@@ -18051,8 +18053,8 @@
 <e>       <p><l>mozambicki<s n="adj"/></l>             <r>mozambicki<s n="adj"/></r></p></e>
 <e>       <p><l>mołdawski<s n="adj"/></l>              <r>mołdŏwski<s n="adj"/></r></p></e>
 
-<e>       <p><l>możliwy<s n="adj"/></l>                <r>możny<s n="adj"/></r></p></e>
-<e r="LR"><p><l>możliwy<s n="adj"/></l>                <r>możebny<s n="adj"/></r></p></e>
+<e>       <p><l>możliwy<s n="adj"/></l>                <r>możliwy<s n="adj"/></r></p></e>
+<e r="RL"><p><l>możliwy<s n="adj"/></l>                <r>możebny<s n="adj"/></r></p></e>
 <e>       <p><l>mroczny<s n="adj"/></l>                <r>mrokewny<s n="adj"/></r></p></e>
 <e>       <p><l>multimedialny<s n="adj"/></l>          <r>multimydialny<s n="adj"/></r></p></e>
 <e>       <p><l>muzyczny<s n="adj"/></l>               <r>muzyczny<s n="adj"/></r></p></e>
@@ -18293,7 +18295,7 @@
 <e>       <p><l>odległy<s n="adj"/></l>                <r>dalekuczny<s n="adj"/></r></p></e>
 <e>       <p><l>odmienny<s n="adj"/></l>               <r>inakszy<s n="adj"/></r></p></e>
 <e>       <p><l>odporny<s n="adj"/></l>                <r>ôbstōny<s n="adj"/></r></p></e>
-<e>       <p><l>odpowiedni<s n="adj"/></l>             <r>pasowny<s n="adj"/></r></p></e>
+<e>       <p><l>odpowiedni<s n="adj"/></l>             <r>ôdpedni<s n="adj"/></r></p></e>
 <e>       <p><l>odpowiedzialny<s n="adj"/></l>         <r>uwŏżny<s n="adj"/></r></p></e>
 <e r="LR"><p><l>odrażający<s n="adj"/></l>             <r>ôszkliwy<s n="adj"/></r></p></e>
 <e>       <p><l>odrębny<s n="adj"/></l>                <r>ôsobny<s n="adj"/></r></p></e>
@@ -19067,7 +19069,7 @@
 <e>       <p><l>wesoły<s n="adj"/></l>                 <r>szpaśny<s n="adj"/></r></p></e>
 <e>       <p><l>wewnątrzfabryczny<s n="adj"/></l>      <r>wewnątrzfabryczny<s n="adj"/></r></p></e>
 <e>       <p><l>wewnętrzny<s n="adj"/></l>             <r>wnyntrzny<s n="adj"/></r></p></e>
-<e>       <p><l>wezwać<s n="adj"/></l>                 <r>zawołać<s n="adj"/></r></p></e>
+<e>       <p><l>wezwać<s n="vblex"/></l>                 <r>zawołać<s n="vblex"/></r></p></e>
 <e>       <p><l>wełniany<s n="adj"/></l>               <r>baryszowy<s n="adj"/></r></p></e>
 <e>       <p><l>wełniany<s n="adj"/></l>               <r>wołniany<s n="adj"/></r></p></e>
 <e>       <p><l>wiadomy<s n="adj"/></l>                <r>snamny<s n="adj"/></r></p></e>
@@ -21683,6 +21685,243 @@
 <e>       <p><l>odżywczy<s n="adj"/></l>               <r>ôdżywczy<s n="adj"/></r></p></e>
 <e>       <p><l>spożywczy<s n="adj"/></l>              <r>spożywczy<s n="adj"/></r></p></e>
 <e>       <p><l>nieduży<s n="adj"/></l>                <r>niysrogi<s n="adj"/></r></p></e>
+
+    <e><p><l>strzelba<s n="n"/><s n="f"/></l><r>flinta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kolba<s n="n"/><s n="f"/></l><r>kolba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ozdoba<s n="n"/><s n="f"/></l><r>ôzdoba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>garderoba<s n="n"/><s n="f"/></l><r>garderoba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zarządca<s n="n"/><s n="mp"/></l><r>zarzōndca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>macica<s n="n"/><s n="f"/></l><r>macica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>źrenica<s n="n"/><s n="f"/></l><r>paniynka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ośmiornica<s n="n"/><s n="f"/></l><r>ôśmiornica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>woźnica<s n="n"/><s n="mp"/></l><r>kuczer<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>tchawica<s n="n"/><s n="f"/></l><r>tchawica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prawica<s n="n"/><s n="f"/></l><r>prawica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dziewica<s n="n"/><s n="f"/></l><r>dziewica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>głowica<s n="n"/><s n="f"/></l><r>gowica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>żywica<s n="n"/><s n="f"/></l><r>żywica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>barbarzyńca<s n="n"/><s n="mp"/></l><r>barbarzińca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>ludożerca<s n="n"/><s n="mp"/></l><r>ludożerca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>dozorca<s n="n"/><s n="mp"/></l><r>dozorca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>wytwórca<s n="n"/><s n="mp"/></l><r>wytwōrca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>dawca<s n="n"/><s n="mp"/></l><r>dŏwca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>językoznawca<s n="n"/><s n="mp"/></l><r>jynzykoznawca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>wyznawca<s n="n"/><s n="mp"/></l><r>wyznŏwca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>wychowawca<s n="n"/><s n="mp"/></l><r>wychowawca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>hodowca<s n="n"/><s n="mp"/></l><r>hodowca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>łowca<s n="n"/><s n="mp"/></l><r>łowca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>zdobywca<s n="n"/><s n="mp"/></l><r>zdobywca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>odkrywca<s n="n"/><s n="mp"/></l><r>ôdkrywca<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>dekada<s n="n"/><s n="f"/></l><r>dekada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szuflada<s n="n"/><s n="f"/></l><r>szuflŏda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zagłada<s n="n"/><s n="f"/></l><r>zagłada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>narada<s n="n"/><s n="f"/></l><r>narada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parada<s n="n"/><s n="f"/></l><r>parada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>posada<s n="n"/><s n="f"/></l><r>posada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>piramida<s n="n"/><s n="f"/></l><r>piramida<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jagoda<s n="n"/><s n="f"/></l><r>jagoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ugoda<s n="n"/><s n="f"/></l><r>ugoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gospoda<s n="n"/><s n="f"/></l><r>gospoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>awangarda<s n="n"/><s n="f"/></l><r>awangarda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>musztarda<s n="n"/><s n="f"/></l><r>musztarda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morda<s n="n"/><s n="f"/></l><r>morda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bruzda<s n="n"/><s n="f"/></l><r>bruzda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alfa<s n="n"/><s n="f"/></l><r>alfa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nimfa<s n="n"/><s n="f"/></l><r>nimfa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sofa<s n="n"/><s n="f"/></l><r>zŏfa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>figa<s n="n"/><s n="f"/></l><r>figa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obelga<s n="n"/><s n="f"/></l><r>ôbelga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>odnoga<s n="n"/><s n="f"/></l><r>ôdnoga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mnogi<s n="adj"/></l><r>mnogi<s n="adj"/></r></p></e>
+    <e><p><l>trwoga<s n="n"/><s n="f"/></l><r>trwoga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>żegluga<s n="n"/><s n="f"/></l><r>żegluga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>intryga<s n="n"/><s n="f"/></l><r>intryga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pycha<s n="n"/><s n="f"/></l><r>pycha<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alergia<s n="n"/><s n="f"/></l><r>alergijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wigilia<s n="n"/><s n="f"/></l><r>wilijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lilia<s n="n"/><s n="f"/></l><r>lilijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>folia<s n="n"/><s n="f"/></l><r>folijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>metropolia<s n="n"/><s n="f"/></l><r>metropolijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poligamia<s n="n"/><s n="f"/></l><r>poligamijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>przepowiednia<s n="n"/><s n="f"/></l><r>przepowiednia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pochodnia<s n="n"/><s n="f"/></l><r>pochodnia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gubernia<s n="n"/><s n="f"/></l><r>gubernia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>włócznia<s n="n"/><s n="f"/></l><r>włōcznia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>próżnia<s n="n"/><s n="f"/></l><r>prōżnia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chemioterapia<s n="n"/><s n="f"/></l><r>chymioterapijŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>malaria<s n="n"/><s n="f"/></l><r>malaria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>weterynaria<s n="n"/><s n="f"/></l><r>weterynaryjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eucharystia<s n="n"/><s n="f"/></l><r>eucharystyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ubikacja<s n="n"/><s n="f"/></l><r>ubikacyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aberracja<s n="n"/><s n="f"/></l><r>aberracyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>licytacja<s n="n"/><s n="f"/></l><r>licytacyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zbroja<s n="n"/><s n="f"/></l><r>zbroja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obsesja<s n="n"/><s n="f"/></l><r>ôbsesyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>epilepsja<s n="n"/><s n="f"/></l><r>epilepsyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alleluja<s n="n"/><s n="f"/></l><r>alleluja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aluzja<s n="n"/><s n="f"/></l><r>aluzyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hipokryzja<s n="n"/><s n="f"/></l><r>hipokryzyjŏ<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obróbka<s n="n"/><s n="f"/></l><r>ôbrōbka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>próbka<s n="n"/><s n="f"/></l><r>prōbka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>podkładka<s n="n"/><s n="f"/></l><r>podkłŏdka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>udręka<s n="n"/><s n="f"/></l><r>udrynka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szafka<s n="n"/><s n="f"/></l><r>szranczek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>umywalka<s n="n"/><s n="f"/></l><r>umywalka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>całka<s n="n"/><s n="f"/></l><r>całka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gałka<s n="n"/><s n="f"/></l><r>gałka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gałka<s n="n"/><s n="f"/></l><r>gałka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pigułka<s n="n"/><s n="f"/></l><r>pigułka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>przesyłka<s n="n"/><s n="f"/></l><r>przesyłka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ósemka<s n="n"/><s n="f"/></l><r>ōsymka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gumka<s n="n"/><s n="f"/></l><r>gumka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kuchenka<s n="n"/><s n="f"/></l><r>kuchynka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szczepionka<s n="n"/><s n="f"/></l><r>szczepiōnka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>patronka<s n="n"/><s n="f"/></l><r>patrōnka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>czerwonka<s n="n"/><s n="f"/></l><r>czerwōnka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>opiekunka<s n="n"/><s n="f"/></l><r>ôpiekunka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bańka<s n="n"/><s n="f"/></l><r>bańka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>foka<s n="n"/><s n="f"/></l><r>foka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>siarka<s n="n"/><s n="f"/></l><r>siarka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>partnerka<s n="n"/><s n="f"/></l><r>partnerka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>głoska<s n="n"/><s n="f"/></l><r>głoska<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spółgłoska<s n="n"/><s n="f"/></l><r>spōłgłoska<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>samogłoska<s n="n"/><s n="f"/></l><r>samogłoska<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pogłoska<s n="n"/><s n="f"/></l><r>pogłoska<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>łuska<s n="n"/><s n="f"/></l><r>łuska<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>bransoletka<s n="n"/><s n="f"/></l><r>bransoletka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lornetka<s n="n"/><s n="f"/></l><r>lornetka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>skarpetka<s n="n"/><s n="f"/></l><r>fuzekla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>galaretka<s n="n"/><s n="f"/></l><r>galaretka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>krewetka<s n="n"/><s n="f"/></l><r>krewetka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sylwetka<s n="n"/><s n="f"/></l><r>sylwetka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>odbitka<s n="n"/><s n="f"/></l><r>ôdbitka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nitka<s n="n"/><s n="f"/></l><r>nitka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szóstka<s n="n"/><s n="f"/></l><r>szōstka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dawka<s n="n"/><s n="f"/></l><r>dŏwka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sadzawka<s n="n"/><s n="f"/></l><r>sadzawka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marchewka<s n="n"/><s n="f"/></l><r>marchewka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soczewka<s n="n"/><s n="f"/></l><r>soczewka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>śliwka<s n="n"/><s n="f"/></l><r>śliwka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>siatkówka<s n="n"/><s n="f"/></l><r>siatkōwka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>koszykówka<s n="n"/><s n="f"/></l><r>koszykōwka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wymówka<s n="n"/><s n="f"/></l><r>wymōwka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gryka<s n="n"/><s n="f"/></l><r>gryka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szczoteczka<s n="n"/><s n="f"/></l><r>szczoteczka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sprzeczka<s n="n"/><s n="f"/></l><r>sprzeczka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>książeczka<s n="n"/><s n="f"/></l><r>ksiōnżeczka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>łyżeczka<s n="n"/><s n="f"/></l><r>łyżeczka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zaliczka<s n="n"/><s n="f"/></l><r>zaliczka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tabliczka<s n="n"/><s n="f"/></l><r>tabliczka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>czaszka<s n="n"/><s n="f"/></l><r>czaszka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gruszka<s n="n"/><s n="f"/></l><r>gruszka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>towarzyszka<s n="n"/><s n="f"/></l><r>tŏwarziszka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nóżka<s n="n"/><s n="f"/></l><r>nōżka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wróżka<s n="n"/><s n="f"/></l><r>wrōżka<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>szabla<s n="n"/><s n="f"/></l><r>szabla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>topola<s n="n"/><s n="f"/></l><r>topōl<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>czapla<s n="n"/><s n="f"/></l><r>czapla<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>muszla<s n="n"/><s n="f"/></l><r>muszla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pierdoła<s n="n"/><s n="f"/></l><r>pierdoła<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gaduła<s n="n"/><s n="f"/></l><r>gaduła<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>molekuła<s n="n"/><s n="f"/></l><r>molekuła<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gama<s n="n"/><s n="f"/></l><r>gama<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lama<s n="n"/><s n="f"/></l><r>lama<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>panorama<s n="n"/><s n="f"/></l><r>panorama<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palma<s n="n"/><s n="f"/></l><r>palma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>farma<s n="n"/><s n="f"/></l><r>farma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oferma<s n="n"/><s n="f"/></l><r>ôferma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nagana<s n="n"/><s n="f"/></l><r>nagana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>porcelana<s n="n"/><s n="f"/></l><r>porcelana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pochodny<s n="adj"/></l><r>pochodny<s n="adj"/></r></p></e>
+    <e><p><l>hiena<s n="n"/><s n="f"/></l><r>hiyna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jarzębina<s n="n"/><s n="f"/></l><r>jarzymbina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>konkubina<s n="n"/><s n="f"/></l><r>kōnkubina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cielęcina<s n="n"/><s n="f"/></l><r>cielyńcina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>trzcina<s n="n"/><s n="f"/></l><r>trzcina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>glina<s n="n"/><s n="f"/></l><r>glina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>strzelanina<s n="n"/><s n="f"/></l><r>strzylanina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wieprzowina<s n="n"/><s n="f"/></l><r>wieprzowina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>weterynaryjny<s n="adj"/></l><r>weterynaryjny<s n="adj"/></r></p></e>
+    <e><p><l>mineralny<s n="adj"/></l><r>mineralny<s n="adj"/></r></p></e>
+    <e><p><l>fontanna<s n="n"/><s n="f"/></l><r>fōntanna<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>grzywna<s n="n"/><s n="f"/></l><r>grziwna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>margaryna<s n="n"/><s n="f"/></l><r>margaryna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pajęczyna<s n="n"/><s n="f"/></l><r>pajynczyna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>koniczyna<s n="n"/><s n="f"/></l><r>kōniczyna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kończyna<s n="n"/><s n="f"/></l><r>kōńczyna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jeżyna<s n="n"/><s n="f"/></l><r>jeżyna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oczny<s n="adj"/></l><r>ôczny<s n="adj"/></r></p></e>
+    <e><p><l>jałmużna<s n="n"/><s n="f"/></l><r>jałmużna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>szkapa<s n="n"/><s n="f"/></l><r>szkapa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cipa<s n="n"/><s n="f"/></l><r>cipa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chałupa<s n="n"/><s n="f"/></l><r>chałupa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pupa<s n="n"/><s n="f"/></l><r>rzić<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>niezdara<s n="n"/><s n="f"/></l><r>niezdara<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cera<s n="n"/><s n="f"/></l><r>cera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ikra<s n="n"/><s n="f"/></l><r>ikra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maciora<s n="n"/><s n="f"/></l><r>maciora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pokora<s n="n"/><s n="f"/></l><r>pokora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flora<s n="n"/><s n="f"/></l><r>flora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>konfitura<s n="n"/><s n="f"/></l><r>kōnfitura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subkultura<s n="n"/><s n="f"/></l><r>subkultura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>broszura<s n="n"/><s n="f"/></l><r>broszura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>misa<s n="n"/><s n="f"/></l><r>misa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>forsa<s n="n"/><s n="f"/></l><r>forsa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>łata<s n="n"/><s n="f"/></l><r>łata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>krata<s n="n"/><s n="f"/></l><r>krŏta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zaleta<s n="n"/><s n="f"/></l><r>zŏlyta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>meta<s n="n"/><s n="f"/></l><r>meta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zachęta<s n="n"/><s n="f"/></l><r>zachynta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mięta<s n="n"/><s n="f"/></l><r>miynta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anegdota<s n="n"/><s n="f"/></l><r>anegdota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zygota<s n="n"/><s n="f"/></l><r>zygota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ślepota<s n="n"/><s n="f"/></l><r>ślepota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostota<s n="n"/><s n="f"/></l><r>prostota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>recepta<s n="n"/><s n="f"/></l><r>recepta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aorta<s n="n"/><s n="f"/></l><r>aorta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kasta<s n="n"/><s n="f"/></l><r>kasta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>intelektualista<s n="n"/><s n="mp"/></l><r>intelektualista<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>chusta<s n="n"/><s n="f"/></l><r>chusta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rozpusta<s n="n"/><s n="f"/></l><r>rozpusta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terrorysta<s n="n"/><s n="mp"/></l><r>terrorysta<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>farmaceuta<s n="n"/><s n="mp"/></l><r>farmaceuta<s n="n"/><s n="mp"/></r></p></e>
+    <e><p><l>bandyta<s n="n"/><s n="mp"/></l><r>bandyta<s n="n"/><s n="mp"/></r></p></e>
+
+    <e><p><l>zjawa<s n="n"/><s n="f"/></l><r>zjawa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zaprawa<s n="n"/><s n="f"/></l><r>zaprawa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oprawa<s n="n"/><s n="f"/></l><r>ôprawa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ulewa<s n="n"/><s n="f"/></l><r>ulewa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mewa<s n="n"/><s n="f"/></l><r>mewa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pochwa<s n="n"/><s n="f"/></l><r>pochwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>śliwa<s n="n"/><s n="f"/></l><r>śliwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pluskwa<s n="n"/><s n="f"/></l><r>pluskwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zabudowa<s n="n"/><s n="f"/></l><r>zabudowa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>słoniowy<s n="adj"/></l><r>słōniowy<s n="adj"/></r></p></e>
+    <e><p><l>piersiowy<s n="adj"/></l><r>piersiowy<s n="adj"/></r></p></e>
+    <e><p><l>przemowa<s n="n"/><s n="f"/></l><r>przemŏwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>benzynowy<s n="adj"/></l><r>bynzynowy<s n="adj"/></r></p></e>
+    <e><p><l>śluzowy<s n="adj"/></l><r>śluzowy<s n="adj"/></r></p></e>
+    <e><p><l>krzyżowy<s n="adj"/></l><r>krziżowy<s n="adj"/></r></p></e>
+    <e><p><l>larwa<s n="n"/><s n="f"/></l><r>larwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>konserwa<s n="n"/><s n="f"/></l><r>kōnserwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>płetwa<s n="n"/><s n="f"/></l><r>płetwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>brzytwa<s n="n"/><s n="f"/></l><r>brzitwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pokrzywa<s n="n"/><s n="f"/></l><r>pokrziwa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>łyżwa<s n="n"/><s n="f"/></l><r>szlynzucha<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>psychoanaliza<s n="n"/><s n="f"/></l><r>psychoanaliza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>symbioza<s n="n"/><s n="f"/></l><r>symbioza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hipnoza<s n="n"/><s n="f"/></l><r>hipnoza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>proza<s n="n"/><s n="f"/></l><r>proza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kasza<s n="n"/><s n="f"/></l><r>kasza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>grusza<s n="n"/><s n="f"/></l><r>grusza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pauza<s n="n"/><s n="f"/></l><r>pauza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bluza<s n="n"/><s n="f"/></l><r>bluza<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kałuża<s n="n"/><s n="f"/></l><r>kałuża<s n="n"/><s n="f"/></r></p></e>
+
 
   </section>
   <section id="final" type="standard">
