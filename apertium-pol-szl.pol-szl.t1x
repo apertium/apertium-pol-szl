@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="coma">
+      <cat-item tags="cm"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*.*.*"/>
       <cat-item tags="np.*.*.*.*"/>
@@ -68,9 +71,24 @@
     <def-cat n="ku">
       <cat-item lemma="ku" tags="pr"/>
     </def-cat>
+    <def-cat n="czy">
+      <cat-item lemma="czy" tags="cnjcoo"/>
+    </def-cat>
+    <def-cat n="eli">
+      <cat-item lemma="eli" tags="cnjcoo"/>
+    </def-cat>
     <def-cat n="oblig_gen">
       <cat-item lemma="u" tags="pr"/>
       <cat-item lemma="ze względu na" tags="pr"/>
+    </def-cat>
+    <def-cat n="do">
+      <cat-item lemma="do" tags="pr"/>
+    </def-cat>
+    <def-cat n="domu">
+      <cat-item lemma="dom" tags="n.mi.sg.gen"/>
+    </def-cat>
+    <def-cat n="w">
+      <cat-item lemma="w" tags="pr"/>
     </def-cat>
     <def-cat n="z">
       <cat-item lemma="z" tags="pr"/>
@@ -115,6 +133,9 @@
     </def-cat>
     <def-cat n="numbers">
       <cat-item tags="num.qnt.*.*.*"/>
+    </def-cat>
+    <def-cat n="pronoun">
+      <cat-item lemma="prpers" tags="prn.*.*.*.*"/>
     </def-cat>
     <def-cat n="ziymiagen">
       <cat-item tags="n.f.*.*"/>
@@ -337,7 +358,6 @@
         </out>
       </action>
     </rule>
-
    <rule comment="pprs to ger">  <!-- imiesłów na gerund -->
      <pattern>
        <pattern-item n="imieslow"/>
@@ -368,6 +388,29 @@
        </out>
      </action>
   </rule> 
+  <rule>
+     <pattern>
+       <pattern-item n="w"/>
+       <pattern-item n="domu"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="wdoma" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                   <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <lit v="dōma"/>
+                   <lit-tag v="pr"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
     <rule> <!-- w ziymi -->
      <pattern>
        <pattern-item n="oblig_loc"/>
@@ -428,43 +471,6 @@
        </out>
      </action>
   </rule>
-<!--    <rule>  w ziymi czŏrnyj 
-     <pattern>
-       <pattern-item n="oblig_loc"/>
-       <pattern-item n="noun"/>
-       <pattern-item n="adj"/>
-     </pattern>
-     <action>
-       <let><clip pos="2" side="tl" part="ziymiagencase"/><lit-tag v="loc"/></let>
-       <let><clip pos="3" side="tl" part="ziymiagencase"/><lit-tag v="loc"/></let>
-       <out>
-          <chunk name="wziymiczornyj" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="sent"/></tag>
-            </tags>
-                <lu>
-                   <clip pos="1" side="tl" part="whole"/>
-                </lu>
-                <b/>
-                <lu>
-                   <clip pos="2" side="tl" part="lemh"/>
-                   <clip pos="2" side="tl" part="partofspeech"/>
-                   <clip pos="2" side="tl" part="gender"/>
-                   <clip pos="2" side="tl" part="num"/>
-                   <clip pos="2" side="tl" part="case"/>
-               </lu>  
-                <b/>
-                <lu>
-                   <clip pos="3" side="tl" part="lemh"/>
-                   <clip pos="3" side="tl" part="partofspeech"/>
-                   <clip pos="2" side="tl" part="gender"/>
-                   <clip pos="2" side="tl" part="num"/>
-                   <clip pos="3" side="tl" part="case"/>
-               </lu> 
-          </chunk>
-       </out>
-     </action>
-  </rule> -->
     <rule> <!-- podczas przerw -->
      <pattern>
        <pattern-item n="podczas"/>
@@ -524,42 +530,6 @@
        </out>
      </action>
   </rule>
-<!--    <rule> 
-     <pattern>
-       <pattern-item n="podczas"/>
-       <pattern-item n="noun"/>
-       <pattern-item n="adj"/>
-     </pattern>
-     <action>
-       <let><clip pos="2" side="tl" part="case"/><lit-tag v="acc"/></let>
-       <out>
-          <chunk name="podczasprzerwdlugich" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="sent"/></tag>
-            </tags>
-                <lu>
-                   <clip pos="1" side="tl" part="whole"/>
-                </lu>
-                <b/>
-                <lu>
-                   <clip pos="2" side="tl" part="lemh"/>
-                   <clip pos="2" side="tl" part="partofspeech"/>
-                   <clip pos="2" side="tl" part="gender"/>
-                   <clip pos="2" side="tl" part="num"/>
-                   <clip pos="2" side="tl" part="case"/>
-               </lu>  
-                <b/>
-                <lu>
-                   <clip pos="3" side="tl" part="lemh"/>
-                   <clip pos="3" side="tl" part="partofspeech"/>
-                   <clip pos="2" side="tl" part="gender"/>
-                   <clip pos="2" side="tl" part="num"/>
-                   <clip pos="2" side="tl" part="case"/>
-               </lu> 
-          </chunk>
-       </out>
-     </action>
-  </rule>  -->
     <rule> <!-- podczas ostatnich pięciu minut -->
      <pattern>
        <pattern-item n="podczas"/>
@@ -628,7 +598,7 @@
                    <clip pos="2" side="tl" part="partofspeech"/>
                    <lit-tag v="nm"/>
                    <clip pos="4" side="tl" part="num"/>
-                   <lit-tag v="acc"/>
+                   <lit-tag v="gen"/>
                </lu>  
                 <b/>
                 <lu>
@@ -821,75 +791,6 @@
         </choose>
     </action>
   </rule>
-<!--  <rule> 
-    <pattern>
-      <pattern-item n="adj"/>
-      <pattern-item n="noun"/>
-      <pattern-item n="adj"/>
-    </pattern>
-      <action>
-        <choose>
-          <when>
-            <test>
-              <and>
-                <not>
-                  <equal>
-                    <clip pos="2" side="tl" part="gender"/>
-                    <clip pos="2" side="sl" part="gender"/>
-                  </equal>
-                </not>
-                <not>
-                  <equal>
-                     <clip pos="2" side="tl" part="gender"/>
-                     <lit-tag v="mf"/>
-                  </equal>
-                </not>
-                <not>
-                  <equal>
-                     <clip pos="2" side="tl" part="gender"/>
-                     <lit-tag v="GD"/>
-                  </equal>
-                </not>
-              </and>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="gender"/>
-              <clip pos="2" side="tl" part="gender"/>
-            </let>
-            <let>
-              <clip pos="3" side="tl" part="gender"/>
-              <clip pos="2" side="tl" part="gender"/>
-            </let>
-          </when>
-        </choose>
-        <out>
-          <chunk name="tenadresdługi" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="sent"/></tag>
-            </tags>
-          <lu>
-                   <clip pos="1" side="tl" part="lemh"/>
-                   <clip pos="1" side="tl" part="partofspeech"/>
-                   <clip pos="2" side="tl" part="gender"/>
-                   <clip pos="2" side="tl" part="num"/>
-                   <clip pos="2" side="tl" part="case"/>
-          </lu>
-          <b/>
-          <lu>
-             <clip pos="2" side="tl" part="whole"/>
-          </lu>
-          <b/>
-          <lu>
-                   <clip pos="3" side="tl" part="lemh"/>
-                   <clip pos="3" side="tl" part="partofspeech"/>
-                   <clip pos="2" side="tl" part="gender"/>
-                   <clip pos="2" side="tl" part="num"/>
-                   <clip pos="2" side="tl" part="case"/>
-          </lu>
-          </chunk>
-        </out>
-    </action>
-  </rule>  -->
     <rule> <!-- ze względu na problem -->
      <pattern>
        <pattern-item n="oblig_gen"/>
@@ -1489,15 +1390,192 @@
         </out>
       </action>
     </rule>
+    <rule>
+     <pattern>
+       <pattern-item n="coma"/>
+       <pattern-item n="czy"/>
+       <pattern-item n="verb"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="wiedzialczymasz" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                   <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="2" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="3" side="tl" part="whole"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
+   <rule>
+     <pattern>
+       <pattern-item n="czy"/>
+       <pattern-item n="verb"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="czymasz" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                  <get-case-from pos ="1">
+                   <clip pos="2" side="tl" part="whole"/>
+                  </get-case-from>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
+    <rule>
+     <pattern>
+       <pattern-item n="coma"/>
+       <pattern-item n="czy"/>
+       <pattern-item n="pronoun"/>
+       <pattern-item n="verb"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="wiedzialczytymasz" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                   <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="2" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="3" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="4" side="tl" part="whole"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
+    <rule>
+     <pattern>
+       <pattern-item n="czy"/>
+       <pattern-item n="pronoun"/>
+       <pattern-item n="verb"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="czytymasz" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                  <get-case-from pos ="1">
+                   <clip pos="3" side="tl" part="whole"/>
+                  </get-case-from>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="2" side="tl" part="whole"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
+    <rule>
+     <pattern>
+       <pattern-item n="coma"/>
+       <pattern-item n="czy"/>
+       <pattern-item n="noun"/>
+       <pattern-item n="verb"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="wiedzialczyautojedzie" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                   <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="2" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="3" side="tl" part="whole"/>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="4" side="tl" part="whole"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
+    <rule>
+     <pattern>
+       <pattern-item n="czy"/>
+       <pattern-item n="noun"/>
+       <pattern-item n="verb"/>
+     </pattern>
+     <action>
+       <out>
+          <chunk name="czyautojedzie" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                  <get-case-from pos ="1">
+                   <clip pos="3" side="tl" part="whole"/>
+                  </get-case-from>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="2" side="tl" part="whole"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
+
+    <rule>
+     <pattern>
+       <pattern-item n="do"/>
+       <pattern-item n="domu"/>
+     </pattern>
+     <action>
+       <let><clip pos="2" side="tl" part="case"/><lit-tag v="nom"/></let>
+       <out>
+          <chunk name="dodom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+                <lu>
+                  <get-case-from pos ="1">
+                   <clip pos="1" side="tl" part="whole"/>
+                  </get-case-from>
+                </lu>
+                <b/>
+                <lu>
+                   <clip pos="2" side="tl" part="whole"/>
+                </lu>
+          </chunk>
+       </out>
+     </action>
+   </rule>
   </section-rules>
 </transfer>
-
-<!--
-Resources:
-    http://wiki.apertium.org/wiki/Chunking:_A_full_example
-    http://wiki.apertium.org/wiki/Chunking
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
-    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
-    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
--->
-
