@@ -2,7 +2,6 @@
 ## Makefile for Polish--szl
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=pol
 LANG2=szl
 PREFIX1=$(LANG1)-$(LANG2)
@@ -214,4 +213,3 @@ test: all
 	@echo "house" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-

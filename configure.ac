@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Polish-szl], [0.2.0], [uostofchuodnego@gmail.com], [apertium-pol-szl], [http://wiki.apertium.org/wiki/Apertium-pol-szl])
+AC_INIT([apertium-pol-szl], [0.2.0], [uostofchuodnego@gmail.com], [apertium-pol-szl], [http://wiki.apertium.org/wiki/Apertium-pol-szl])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
@@ -34,4 +34,3 @@ AP_CHECK_LING([2], [apertium-szl])
 AP_MKINCLUDE
 
 AC_OUTPUT([Makefile])
-
