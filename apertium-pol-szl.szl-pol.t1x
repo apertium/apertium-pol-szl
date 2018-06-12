@@ -108,7 +108,7 @@
       <attr-item tags="prn.ind"/>
       <attr-item tags="prn.itg"/>
       <attr-item tags="num.qnt"/>
-      <attr-item tags="vblex.imperf.pp"/>
+      <attr-item tags="vblex.impf.pp"/>
       <attr-item tags="vblex.perf.pp"/>
     </def-attr>
   </section-def-attrs>

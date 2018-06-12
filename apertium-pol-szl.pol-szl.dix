@@ -71,7 +71,7 @@
     <sdef n="itg" 	c="pytający"/> 
     <sdef n="ind" 	c="rodzajnik nieokreślony"/> 
     <sdef n="ref" 	c="zwrotny"/> 
-    <sdef n="imperf" 	c="czasownik niedokonany"/> 
+    <sdef n="impf" 	c="czasownik niedokonany"/> 
     <sdef n="perf" 	c="czasownik dokonany"/> 
     <sdef n="sint" 	c="przymiotnik albo przysłówek mający stopień wyższy/najwyższy"/> 
     <sdef n="comp" 	c="stopień wyższy"/> 
@@ -14724,7 +14724,7 @@
 <e r="LR"><p><l>modlić<s n="vblex"/></l>               <r>rzykać<s n="vblex"/></r></p></e>
 <e>       <p><l>modlić<g><b/>się</g><s n="vblex"/></l> <r>rzykać<s n="vblex"/></r></p></e>
 <e>       <p><l>powieść<g><b/>się</g><s n="vblex"/></l><r>podarzić<g><b/>sie</g><s n="vblex"/></r></p></e>
-<e r="LR"><p><l>być<g><b/>w<b/>stanie</g><s n="vbser"/></l><r>poradzić<s n="vblex"/><s n="imperf"/></r></p></e>
+<e r="LR"><p><l>być<g><b/>w<b/>stanie</g><s n="vbser"/></l><r>poradzić<s n="vblex"/><s n="impf"/></r></p></e>
 <e>       <p><l>modyfikować<s n="vblex"/></l>          <r>modyfikować<s n="vblex"/></r></p></e>
 <e>       <p><l>monitorować<s n="vblex"/></l>          <r>mōnitorować<s n="vblex"/></r></p></e>
 <e>       <p><l>montować<s n="vblex"/></l>             <r>mōntować<s n="vblex"/></r></p></e>
@@ -19416,9 +19416,9 @@
           group vbser_symbol
       ****************************** -->
 <e>       <p><l>być<s n="vbser"/></l>                  <r>być<s n="vbser"/></r></p></e>
-<e>       <p><l>istnieć<s n="vblex"/><s n="imperf"/></l><r>być<s n="vbser"/></r></p></e>
-<e>       <p><l>pochodzić<s n="vblex"/><s n="imperf"/></l><r>być<s n="vbser"/></r></p></e>
-<e r="LR"><p><l>znajdować<g><b/>się</g><s n="vblex"/><s n="imperf"/></l><r>być<s n="vbser"/></r></p></e>
+<e>       <p><l>istnieć<s n="vblex"/><s n="impf"/></l><r>być<s n="vbser"/></r></p></e>
+<e>       <p><l>pochodzić<s n="vblex"/><s n="impf"/></l><r>być<s n="vbser"/></r></p></e>
+<e r="LR"><p><l>znajdować<g><b/>się</g><s n="vblex"/><s n="impf"/></l><r>być<s n="vbser"/></r></p></e>
     <!-- ******************************
           group vaux_symbol
       ****************************** -->

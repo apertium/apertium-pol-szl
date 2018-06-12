@@ -108,17 +108,17 @@
       <cat-item tags="prn.ind.*.sg.*"/>
       <cat-item tags="prn.itg.*.sg.*"/>
       <cat-item tags="vblex.perf.pp.*.sg.*"/>
-      <cat-item tags="vblex.imperf.pp.*.sg.*"/>
+      <cat-item tags="vblex.impf.pp.*.sg.*"/>
     </def-cat>
     <def-cat n="desc.verb.sg">
       <cat-item tags="adj.*.sg.*"/>
       <cat-item tags="vblex.perf.pp.*.sg.*"/>
-      <cat-item tags="vblex.imperf.pp.*.sg.*"/>
+      <cat-item tags="vblex.impf.pp.*.sg.*"/>
     </def-cat>
     <def-cat n="desc.verb.pl">
       <cat-item tags="adj.*.sg.*"/>
       <cat-item tags="vblex.perf.pp.*.sg.*"/>
-      <cat-item tags="vblex.imperf.pp.*.sg.*"/>
+      <cat-item tags="vblex.impf.pp.*.sg.*"/>
     </def-cat>
     <def-cat n="adj.pl">
       <cat-item tags="adj.*.pl.*"/>
@@ -129,7 +129,7 @@
       <cat-item tags="prn.ind.*.pl.*"/>
       <cat-item tags="prn.itg.*.pl.*"/>
       <cat-item tags="vblex.perf.pp.*.pl.*"/>
-      <cat-item tags="vblex.imperf.pp.*.pl.*"/>
+      <cat-item tags="vblex.impf.pp.*.pl.*"/>
     </def-cat>
     <def-cat n="numbers">
       <cat-item tags="num.qnt.*.*.*"/>
@@ -178,7 +178,7 @@
       <cat-item tags="prn.ind.*.pl.nom"/>
       <cat-item tags="prn.itg.*.pl.nom"/>
       <cat-item tags="vblex.perf.pp.*.pl.nom"/>
-      <cat-item tags="vblex.imperf.pp.*.pl.nom"/>
+      <cat-item tags="vblex.impf.pp.*.pl.nom"/>
     </def-cat>
     <def-cat n="n.f.sg.gen">
       <cat-item tags="n.f.sg.gen"/>
@@ -193,7 +193,7 @@
       <cat-item tags="prn.ind.*.pl.gen"/>
       <cat-item tags="prn.itg.*.pl.gen"/>
       <cat-item tags="vblex.perf.pp.*.pl.gen"/>
-      <cat-item tags="vblex.imperf.pp.*.pl.gen"/>
+      <cat-item tags="vblex.impf.pp.*.pl.gen"/>
     </def-cat>
   </section-def-cats>
 
@@ -281,7 +281,7 @@
       <attr-item tags="prn.ind"/>
       <attr-item tags="prn.itg"/>
       <attr-item tags="num.qnt"/>
-      <attr-item tags="vblex.imperf.pp"/>
+      <attr-item tags="vblex.impf.pp"/>
       <attr-item tags="vblex.perf.pp"/>
     </def-attr>
   </section-def-attrs>
