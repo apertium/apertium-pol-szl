@@ -5,7 +5,7 @@
 
   <mode name="pol-szl" install="yes">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -42,7 +42,7 @@
 
   <mode name="pol-szl-dgen" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -72,7 +72,7 @@
 
   <mode name="pol-szl-morph" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
     </pipeline>
@@ -80,7 +80,7 @@
 
   <mode name="pol-szl-disam" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
     </pipeline>
@@ -88,7 +88,7 @@
 
   <mode name="pol-szl-tagger" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -99,7 +99,7 @@
 
   <mode name="pol-szl-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -111,7 +111,7 @@
 
   <mode name="pol-szl-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -126,7 +126,7 @@
 
   <mode name="pol-szl-lex" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -144,7 +144,7 @@
 
   <mode name="pol-szl-transfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -166,7 +166,7 @@
 
   <mode name="pol-szl-interchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -192,7 +192,7 @@
 
   <mode name="pol-szl-postchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="pol-szl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -224,7 +224,7 @@
 
   <mode name="szl-pol" install="yes">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -261,7 +261,7 @@
 
   <mode name="szl-pol-dgen" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -291,7 +291,7 @@
 
   <mode name="szl-pol-morph" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
     </pipeline>
@@ -299,7 +299,7 @@
 
   <mode name="szl-pol-disam" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
     </pipeline>
@@ -307,7 +307,7 @@
 
   <mode name="szl-pol-tagger" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -318,7 +318,7 @@
 
   <mode name="szl-pol-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -330,7 +330,7 @@
 
   <mode name="szl-pol-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -345,7 +345,7 @@
 
   <mode name="szl-pol-lex" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -363,7 +363,7 @@
 
   <mode name="szl-pol-transfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -382,7 +382,7 @@
 
   <mode name="szl-pol-interchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
@@ -405,7 +405,7 @@
 
   <mode name="szl-pol-postchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc">
         <file name="szl-pol.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
