@@ -210,12 +210,12 @@
       <attr-item tags="ger"/>
     </def-attr>
     <def-attr n="verbs">
-      <attr-item tags="vblex.imperf"/>
+      <attr-item tags="vblex.impf"/>
       <attr-item tags="vblex.perf"/>
-      <attr-item tags="vaux.imperf"/>
+      <attr-item tags="vaux.impf"/>
       <attr-item tags="vaux.perf"/>
       <attr-item tags="vbser"/>
-      <attr-item tags="vbhaver.imperf"/>
+      <attr-item tags="vbhaver.impf"/>
     </def-attr>
     <def-attr n="tense">
       <attr-item tags="past"/>
