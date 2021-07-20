@@ -1,0 +1,12 @@
+[LEz2VzN4NRJb#0] ^377<num><qnt>/377<num><qnt>$
+[/LEz2VzN4NRJb]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[SXcfoRTUVfRz#0] ^DOS<abbr>/DOS<abbr>$
+[/SXcfoRTUVfRz]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]
+[wHm0W6u0gArH#0] ^*bzoiaogo/*bzoiaogo$
+[/wHm0W6u0gArH]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

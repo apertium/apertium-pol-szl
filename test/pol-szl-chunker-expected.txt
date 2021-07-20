@@ -1,0 +1,24 @@
+[CsNt8GLW79Wo#0] ^unknown<unknown>{^*wersoloaz$}$
+[/CsNt8GLW79Wo]
+[I86kZqOaz91B#0] ^unknown<unknown>{^*ażom$}$
+[/I86kZqOaz91B]
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[OfqewZDu57b0#0] ^default<default>{^60<num><qnt>$}$
+[/OfqewZDu57b0]
+[Phv6ilLYWyXS#0] ^unknown<unknown>{^*dwutgoa$}$
+[/Phv6ilLYWyXS]
+[QvEkJFWa5vxO#0] ^unknown<unknown>{^*ISOaym$}$
+[/QvEkJFWa5vxO]
+[X4sh-qVFPV2X#0] ^unknown<unknown>{^*Wieln$}$
+[/X4sh-qVFPV2X]
+[cUrp0YgOtgkP#0] ^unknown<unknown>{^*łosfd$}$
+[/cUrp0YgOtgkP]
+[glTDKakoUPbV#0] ^unknown<unknown>{^*k$}$
+[/glTDKakoUPbV]
+[mpYo1LGoaudu#0] ^unknown<unknown>{^*żądnoi$}$
+[/mpYo1LGoaudu]
+[qs2DS1zcZKMp#0] ^default<default>{^06<num><qnt>$}$
+[/qs2DS1zcZKMp]
+[u3IIvJtdfATx#0] ^sent<SENT>{^!<sent>$}$
+[/u3IIvJtdfATx]

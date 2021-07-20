@@ -1,0 +1,10 @@
+{
+    "pol-szl": {
+        "input": "pol-szl-input.txt",
+        "mode": "pol-szl"
+    },
+    "szl-pol": {
+        "input": "szl-pol-input.txt",
+        "mode": "szl-pol"
+    }
+}
